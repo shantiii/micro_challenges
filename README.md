@@ -4,4 +4,5 @@ This is just a collection of random programming doodads I attempted.
 
 So far:
 
-* Fibonacci Sequences in C and Erlang
+* [Fibonacci Sequences in C and Erlang](/fibo)
+* [Shamir's Secret Sharing Algorithm in Haskell](/shamir)
