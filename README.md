@@ -6,3 +6,4 @@ So far:
 
 * [Fibonacci Sequences in C and Erlang](/fibo)
 * [Shamir's Secret Sharing Algorithm in Haskell](/shamir)
+* ["Event Sim" and Functional Data Structures in Elixir](/event_sim_fds)
